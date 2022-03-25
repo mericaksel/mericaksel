@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mericaksel
 - 👀 I’m interested in software and blockchain 
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning Python
 - 📫 How to reach me mericaksel44@gmail.com
  <!---💞️ I’m looking to collaborate on ...--->
 <!---
